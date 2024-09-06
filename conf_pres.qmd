@@ -1,0 +1,26 @@
+---
+title: "POSIT Data Science"
+author: "IEc Data Science Group"
+format: revealjs
+title-slide-attributes:
+    data-background-image: ./ext/IEC_temp_bkg.png
+    data-background-size: contain
+---
+
+
+# Slide 1
+
+
+## Slide 2
+
+## Slide 3
+
+
+## Slide 4
+
+
+## Slide 5
+
+
+----
+Slide without a title and just text
