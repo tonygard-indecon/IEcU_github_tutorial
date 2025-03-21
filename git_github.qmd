@@ -14,7 +14,7 @@ format: docx
 
 
 # What is GITHUB
-
+At a fundamental level, GitHUB is a platform that hosts code version-controlled through Git that allows for collaboration across users. Through storing your own code on it, it is also an opportunity to showcase your own experience and contribute to your professional brand. You can also use it to host a professional website or automate running reoccurring code (through GitHUB Actions). Because of its prevalence in the data science and coding community, you can also use it to view other people's code and communicate with the authors of code packages you use about issues or questions.  
 
 # Set up GIT
 
