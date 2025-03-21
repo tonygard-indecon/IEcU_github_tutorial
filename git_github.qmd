@@ -1,25 +1,26 @@
 ---
 title: "Github/Git"
 author: "IEc Data Science Group"
-format: revealjs
-title-slide-attributes:
-    data-background-image: ./ext/IEC_temp_bkg.png
-    data-background-size: contain
+format: docx
 ---
 
 
-# Slide 1
+# Summary
 
 
-## Slide 2
+# What is Version Control and why use it?
 
-## Slide 3
-
-
-## Slide 4
+# What is GIT
 
 
-## Slide 5
+# What is GITHUB
+
+
+# Set up GIT
+
+# Set up GITHUB
+
+# Example
 
 
 ----
