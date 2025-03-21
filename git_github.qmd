@@ -21,6 +21,3 @@ At a fundamental level, GitHUB is a platform that hosts code version-controlled 
 # Set up GITHUB
 
 # Example
-
-
-----
