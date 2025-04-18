@@ -9,6 +9,11 @@ format: docx
 
 
 # What is Version Control and why use it?
+  ○ A practice of tracking and managing code changes over time.
+  ○ It allows people to work on code, and make it easy to merge their work together
+  ○ It allows the comparison of different versions to more easily identify changes
+  ○ It allows the creation of named versions of code so that they can be released 
+  ○ Helps support parallel development work
 
 # What is GIT
 
