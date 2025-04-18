@@ -15,7 +15,13 @@ format: docx
   ○ It allows the creation of named versions of code so that they can be released 
   ○ Helps support parallel development work
 
+
 # What is GIT
+GIT is a free, open-source distributed version control system that allows users to track changes and versions of code. 
+![git_scheme](./ext/basic_git_schematic.png)
+This schematic illustrates the general structure of GIT. It tracks changes done in each developers local environment, and then facilitates the merging and updating of code changes across the network of users for that particular repository of code.
+
+GIT's system creates an index tree of code versions such that users can switch between them and change their local code base to whatever version of the code base they wish.
 
 
 # What is GITHUB
