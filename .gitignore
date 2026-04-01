@@ -19,8 +19,15 @@
 # Output files from R CMD check
 /*.Rcheck/
 
-# RStudio files
+# R-specific
+.Rhistory
+.RData
 .Rproj.user/
+
+# Python-specific
+__pycache__/
+*.pyc
+.venv/
 
 # produced vignettes
 vignettes/*.html
@@ -48,3 +55,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
