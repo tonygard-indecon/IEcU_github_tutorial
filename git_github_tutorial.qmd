@@ -3,15 +3,10 @@ title: "IEcU Getting Started with Git & GitHub"
 author: "Tony Gardella"
 date: today
 format:
-  html:
+  typst:
     toc: true
     toc-depth: 3
-    toc-location: left
-    theme: cosmo
-    code-fold: false
-    code-tools: true
     highlight-style: github
-embed-resources: true
 ---
 
 ## What is Git? {#what-is-git}
