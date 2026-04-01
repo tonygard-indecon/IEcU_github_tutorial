@@ -1,0 +1,5 @@
+# Workshop Participants
+# Format: Name | Fun Fact
+#
+
+Example Person | I once ate 47 pancakes in one sitting 🥞
