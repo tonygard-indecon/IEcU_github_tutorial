@@ -5,8 +5,10 @@ date: today
 format:
   typst:
     toc: true
-    toc-depth: 3
+    toc-depth: 1
     highlight-style: github
+---
+
 ---
 
 ## What is Git? {#what-is-git}
@@ -27,7 +29,7 @@ format:
 - Issue tracking, project boards, and team management
 - A place to share and discover open source projects
 
-> 💡 **Analogy:** If Git is the engine, GitHub is the car. Git does the version control work; GitHub gives it a user-friendly interface and collaboration features.
+> 💡 **How are they related?** Git is the software engine that enables version control on your computer/local network, GitHub is cloud/web tool that enables you to extend version control across multiple computers.
 
 ---
 
@@ -57,6 +59,8 @@ Many IEc projects involve sensitive client data, proprietary models, or confiden
 ### Consult a Git Expert at IEc
 
 If you are new to Git or unsure about how to structure a repository for a work project, **reach out to a Git-experienced colleague before getting started.** Getting the setup right from the beginning — branching strategy, access controls, what to include or exclude — is much easier than fixing mistakes after the fact.
+
+
 
 ---
 
@@ -180,7 +184,7 @@ Open your Git terminal and run:
 git --version
 ```
 
-You should see something like: `git version 2.42.0`
+You should see something like: `git version 2.53.0` or something similair.
 
 ### Step 3: Configure Git
 
@@ -601,5 +605,59 @@ git diff                    # See unstaged changes
 ```
 
 ---
+## Useful Software Tools for Git & GitHub
+
+GUI Clients (Visual Git Interfaces)
+
+    GitKraken - Feature-rich, cross-platform GUI
+    Sourcetree - Free GUI by Atlassian
+    GitHub Desktop - Official GitHub client, beginner-friendly
+    Tower - Professional Git client (paid)
+    Fork - Fast and friendly Git client
+
+Code Editors / IDEs with Git Integration
+
+    VS Code - Built-in Git support + GitLens extension
+    JetBrains IDEs (IntelliJ, PyCharm) - Excellent built-in Git tools
+    Sublime Merge - Git client by Sublime Text team
+
+Productivity Extensions & Plugins
+
+    GitLens (VS Code) - Enhanced Git visualization
+    Git Graph (VS Code) - Visual branch/commit history
+    GitHub Copilot - AI code assistance
+
+Code Review & Collaboration
+
+    Reviewable - Advanced code review tool
+    Codecov - Code coverage reporting
+    SonarQube - Code quality analysis
+
+CI/CD Integration Tools
+
+    GitHub Actions - Built-in automation
+    Jenkins - Open-source automation server
+    CircleCI - Cloud-based CI/CD
+    Travis CI - Continuous integration service
+
+Terminal Enhancements
+
+    Oh My Zsh - Git aliases and plugins
+    Git Bash - Unix-style terminal for Windows
+    Lazygit - Terminal UI for Git commands
+    diff-so-fancy - Improved diff output
+
+Repository Management
+
+    BFG Repo Cleaner - Remove sensitive data from history
+    Git LFS - Large file storage
+    Husky - Git hooks made easy
+
+Project Management (GitHub Adjacent)
+
+    ZenHub - Agile project management in GitHub
+    Jira - Issue tracking with GitHub integration
+    Linear - Modern issue tracking
+
 
 Happy coding! Remember: every expert was once a beginner. The more you use Git, the more natural it becomes. 🌱

@@ -1,13 +1,13 @@
-# History files
-.Rhistory
-.Rapp.history
+# Environment variable files
+.env
+.env.local
+.env.*
 
-# Session Data files
-.RData
-.RDataTmp
-.Rproj
+# API keys or config files with secrets
+secrets.R
+config_private.yml
 
-# User-specific files
+# R User-specific files
 .Ruserdata
 
 # Example code in package build process
